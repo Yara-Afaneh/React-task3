@@ -1,0 +1,16 @@
+:root{
+    --main-color: rgb(255, 114, 76);
+}
+.bg-main-color {
+    background-color: var(--main-color);
+}
+.main-color {
+    color: var(--main-color);
+}
+
+.Navbar .Nav Link:hover{
+    color: var(--main-color);
+}
+.Navbar .Nav {
+    color: var(--main-color);
+}
